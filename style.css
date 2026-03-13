@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #5FDB47;
+}
+
+footer{
+    background-color: #5FDB47;
+}
+
+h1{
+  background-color:#5FDB47 ;  
+}
+
+ul{
+ background-color: #5FDB47 ;
+}
+ol{
+    background-color: #5FDB47;
+}
+
+body{
+    text-align: center;
+}
